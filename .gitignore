@@ -1,0 +1,4 @@
+/files/*
+/vendor/*
+.htaccess
+.htpasswd
